@@ -1,0 +1,1 @@
+from src.titanic1 import logger
